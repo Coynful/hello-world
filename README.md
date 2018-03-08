@@ -5,3 +5,4 @@ Wanted to introduce myself. You can call me TIMMY. I am going to be leading the 
 <br>-Back End will either be based on Amazon Cloudsearch or Apache depending on what the Coynful community believes is better & more practical. Assuming we use Amazon Cloudsearch Index Request, we will incorporate it for Web Crawling & Web Indexing. Also Amazon Cloudsearch search API to retrieve results.
 <br>-Coynful already has a database of thousands of merchants who accept crypto & it will only grow from there on.
 <p>Also, to keep things simple, the coin will be an ERC20 token & will be integrated for its security & compatability.
+<p>UPDATE - Will need multiple vertical search query implementation. 
